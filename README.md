@@ -46,7 +46,7 @@
 ![](https://komarev.com/ghpvc/?username=0871063&style=flat&color=000000&label=👋)
 
 <div align="center">
-    Give me some <img src="https://emojis.slackmojis.com/emojis/images/1643515416/14355/pink-star.gif" height="30px"> to my repos if you like them!
+    Give me some <img src="https://www.icegif.com/wp-content/uploads/2022/09/icegif-1031.gif" height="30px"> to my repos if you like them!
   
 </div>
 
