@@ -11,7 +11,7 @@
 
 
 - 🌐 Portfolio website: [Portfolio](https://github.com/0871063.github.io/)
-- ⚡ Fun fact: The best way to debug is by taking a break and coming back to it later. 🤓
+- ⚡ Fun fact: Sometimes the best solution to a coding problem is a good night's sleep. Fresh eyes can see things differently! 🤓
 
 💻 **Things I'm passionate about** <img src="https://i.pinimg.com/originals/53/bc/83/53bc83a20fe502f452426ffed44d375a.gif" width="30"> 
 - Mobile Development ✍️
