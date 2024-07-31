@@ -1,7 +1,7 @@
 <div align="center" > <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> Hello there!, I am Malsha <img height="30px" src="https://i.pinimg.com/originals/d8/82/2d/d8822d7ca772d639cc314b8224b10d3d.gif"></div>
 
 
-<img align="right" src="https://github.com/0871063/MalshaC0871063/blob/main/Gif/CodingGirl.gif" alt="Coding Girl Cat GIF">
+<img align="right" src="https://github.com/0871063/0871063/blob/main/Gif/CodingGirl.gif" alt="Coding Girl Cat GIF">
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/0871063/)](https://github.com/0871063) 
