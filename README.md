@@ -16,7 +16,7 @@
 💻 **Things I'm passionate about** <img src="https://emojis.slackmojis.com/emojis/images/1660415423/60771/blue-heart.gif" width="30"> 
 - Mobile Development ✍️
 - Web Development 🧐
-- Robotics & IoT 🤖 
+- AI & IoT 🤖 
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
   <img align="right" width=420 height="auto" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=0871063&show_icons=true&locale=en&theme=radical&count_private=true&hide_border=true&include_all_commits=true" alt="0871063" />
